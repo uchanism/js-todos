@@ -97,7 +97,7 @@ li > label {
 li >  input[type="text"] {
   width: 226px;
 }
-li > .delete:hover {
+li > .btn-delete:hover {
   color: #CF2323;
 }
 
@@ -117,4 +117,5 @@ ul li.editMode input[type=text] {
 }
 
 ul li.editMode label {
-  displa
+  display:none;
+}
